@@ -111,7 +111,7 @@
 
 # ├── Dashboard/
 
-# │   └── Dashboard/Amanda Jubin-Fofie\_Employee Survey.pbix
+# │   └── Amanda Jubin-Fofie_Employes Survey.pbix
 
 # ├── Data/
 
@@ -119,9 +119,9 @@
 
 # ├── Images/
 
-# │   ├── Employee-Survey-Dashboard.jpeg
+# │   ├── ![Images](Images/Employee-Survey-Dashboard.jpeg)
 
-# │   ├── Employee-Survey-Data-Model.jpeg
+# │   ├── ![Images](Images/Data-Model-Employee-Satisfation.jpeg)
 
 # ├── Report/
 
