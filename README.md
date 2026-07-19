@@ -59,7 +59,7 @@
 
 #### A star schema was created to improve performance and simplify analysis.
 
-![Images](Images/Data-Model-Employee-Satisfaction.jpeg)
+![Images](Images/Data-Model-Employee-Satisfation.jpeg)
 
 ---
 
