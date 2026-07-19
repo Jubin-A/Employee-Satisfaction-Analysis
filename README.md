@@ -107,11 +107,9 @@
 
 # Employee-Survey-Analysis/
 
-# │
-
 # ├── Dashboard/
 
-# │   └── Amanda Jubin-Fofie_Employes Survey.pbix
+# │   └── Dashboard/Amanda Jubin-Fofie_Employee Survey.pbix
 
 # ├── Data/
 
